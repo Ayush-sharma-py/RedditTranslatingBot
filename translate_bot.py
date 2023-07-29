@@ -13,7 +13,7 @@ reddit = praw.Reddit(client_id=credential[0],
 
 translator = Translator() 
 
-if reddit.user.me() == 'translate_bot123':
+if reddit.user.me() == #username:
     print("Authentication Sucessfull") 
 
 
